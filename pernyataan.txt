@@ -1,7 +1,7 @@
 Saya yang mempunyai identitas di bawah ini,
-NIM   : [NIM]
-Nama  : [nama-lengkap]
-Kelas : [kelas]
+NIM   : 1441180170
+Nama  : Devinta Putri Chritanti
+Kelas : TI 2E
 
 Dengan ini menyatakan:
 
